@@ -1,6 +1,6 @@
 # SHEET data processing / TensorFlow Lite model
 # by lbaranyai@github
-# video demonstration at https://youtu.be/cU-_Eo0AmQ8?si=WLIymyyXCpU1zZLM
+# video demonstration at https://youtu.be/i3z-B7vKdGU
 
 # Start python environment in RStudio
 no
